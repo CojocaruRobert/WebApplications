@@ -1,0 +1,34 @@
+
+body{
+    background-image: url(table.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    width: 150px;
+    color: #016f32;
+    background: goldenrod;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+}
